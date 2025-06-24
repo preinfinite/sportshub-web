@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sports Gallore</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Sports Gallore</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="scores.html">Live Scores</a>
+      <a href="highlights.html">Highlights</a>
+      <a href="news.html">News</a>
+      <a href="fantasy.html">Fantasy</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Your AI-Powered Sports Universe</h2>
+      <p>50+ posts per hour. Real-time scores. AI editorials. No human lag.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Sports Gallore. Built with AI fire.</p>
+  </footer>
+</body>
+</html>

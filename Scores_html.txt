@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Live Scores - Sports Gallore</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Live Scores</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="scores.html">Live Scores</a>
+      <a href="highlights.html">Highlights</a>
+      <a href="news.html">News</a>
+      <a href="fantasy.html">Fantasy</a>
+    </nav>
+  </header>
+
+  <main>
+    <ul id="live-scores"></ul>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+const liveScores = [
+  { home: "Barcelona", away: "Real Madrid", score: "2 - 1", time: "75′" },
+  { home: "Chelsea", away: "Man United", score: "1 - 1", time: "HT" },
+];
+
+const container = document.getElementById("live-scores");
+if (container) {
+  liveScores.forEach(match => {
+    const li = document.createElement("li");
+    li.textContent = `${match.home} vs ${match.away} — ${match.score} (${match.time})`;
+    container.appendChild(li);
+  });
+}

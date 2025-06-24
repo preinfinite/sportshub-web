@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>AI Newsroom - Sports Gallore</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>News</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="scores.html">Live Scores</a>
+      <a href="highlights.html">Highlights</a>
+      <a href="news.html">News</a>
+      <a href="fantasy.html">Fantasy</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="articles">
+      <article>
+        <h3>Mbappé Stuns in Final</h3>
+        <p>In a thrilling display, Mbappé delivered two goals and a perfect assist...</p>
+      </article>
+      <article>
+        <h3>Is Jude Bellingham England’s Future Captain?</h3>
+        <p>The Real Madrid midfielder continues to impress with every performance...</p>
+      </article>
+    </div>
+  </main>
+</body>
+</html>
